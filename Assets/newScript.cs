@@ -3,12 +3,12 @@ using System.Collections;
 
 public class newScript : MonoBehaviour {
 	
-	//here is my comment
+	//this comment has been changed
 	
 	// Use this for initialization
 	void Start () {
 	
-	}
+	
 	
 	// Update is called once per frame
 	void Update () {
